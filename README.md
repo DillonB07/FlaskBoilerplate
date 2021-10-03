@@ -1,5 +1,9 @@
 # Flask Template
 
+[![Repl Talk Badge](https://replit-badge.vercel.app/api?id=146307&style=gradient&replTalk=Repl%20Plates)](https://replit.com/talk/templates/Flask-Template/146307)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/DillonB07/FlaskBoilerplate)
+
 Starting a Flask App and setting up all of the files can be tedious! Use this template to get a basic boilerplate for your flask app!
 
 ## Usage
